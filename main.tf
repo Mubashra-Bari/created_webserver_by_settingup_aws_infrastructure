@@ -136,15 +136,3 @@ resource "aws_instance" "my-server" {
       Name = "ubuntu-server"
   }
 }
-
-#output "server_private_ip" {
-#  value = aws_instance.my-server.private_ip
-#}
-
-#output "server_id" {
-#  value = aws_instance.my-server.id
-#}
-
-#variable "subnet_prefix" {
-#    description = "this is our cidr block"
-#}
