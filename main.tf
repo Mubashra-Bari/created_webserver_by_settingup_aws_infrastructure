@@ -1,8 +1,4 @@
-provider "aws" {
-    region = "ap-south-1"
-    access_key = "ABCDEFGHIJKLMNO"
-    secret_key = "abcdEFGHij3648smdnlljrfd"
-}
+provider "aws" {}
 
 
 #VPC
