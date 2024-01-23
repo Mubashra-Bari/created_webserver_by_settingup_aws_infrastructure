@@ -1,3 +1,2 @@
-# Built a webserver on EC2 instance in a VPC using Terraform
-Created a custom module of Terraform where I've launched an EC2 instance connected to a VPC
-and then hosted a WebPage on it using Terraform.
+# Created a web server by setting up AWS infrastructure using Terraform
+This code defines and deploys AWS infrastructure with a VPC, subnet, internet gateway, route table, security group, network interface, Elastic IP, and an EC2 instance running a web server. The resources are interconnected to create a functional environment.
